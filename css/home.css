@@ -3,7 +3,8 @@ body{
 }
 
 #logo{
-	padding: 260px 575px;
+	margin-top: 18%;
+	margin-left: 40%;
 }
 
 i{
@@ -13,6 +14,11 @@ i{
 	margin: 30px;
 }
 
-div{
+p{
 	font-size: 15px;
 }
+
+div{
+	margin-bottom: 10%;
+	margin-left: 25%; 
+}	
