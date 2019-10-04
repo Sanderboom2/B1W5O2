@@ -22,11 +22,18 @@ div{
 	margin-bottom: 10%;
 	margin-left: 25%; 
 }
-#top{
-	background-color: white;
-
-}		
+		
 .a{
 	color: gray;
-	height: 2
+	height: 2;
+	float: right;
+	margin-left: 10px;
+}
+
+#menu{     
+	background: white;     
+	float:right;     
+	color:grey;     
+	display: block;     
+	width: 100%;
 }
