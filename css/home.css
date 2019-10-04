@@ -3,13 +3,13 @@ body{
 }
 
 #logo{
-	margin-top: 18%;
+	margin-top: 5%;
 	margin-left: 40%;
 }
 
-i{
+.b{
 	font-size: 30px;
-	color: white;
+	color: gray;
 	text-align: center;
 	margin: 30px;
 }
@@ -21,4 +21,12 @@ p{
 div{
 	margin-bottom: 10%;
 	margin-left: 25%; 
-}	
+}
+#top{
+	background-color: white;
+
+}		
+.a{
+	color: gray;
+	height: 2
+}
